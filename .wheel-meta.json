@@ -1,0 +1,22 @@
+{
+  "wheel_id": 894,
+  "structure": "umbrella",
+  "slug": "retainingwallcanberra-158",
+  "project": "retaining-walls-canberra-what-to-expect-29040e43270c1304f8b7446",
+  "parent_t1_ref": "retainingwallcanberra-012",
+  "node_role": "buffer",
+  "money_target": "retainingwallcanberra.com.au",
+  "primary_kw": "retaining walls canberra what to expect",
+  "intended_url": "https://sitesau.github.io/retainingwallcanberra-158/",
+  "tier": "T2",
+  "writeback_nonce": "2d4f5ef1cc0cef89",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/retaining-walls-canberra-012/",
+      "anchor": "retaining walls canberra explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
